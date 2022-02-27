@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable, the knights, citizens and burgesses, of the House of Commons assembled in Parliament the humble petition of many godly true-hearted Protestants, whose names are hereafter mentioned, ...</title>
+            <author>Nutt, Thomas, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89785</idno>
+            <idno type="STC">Wing N1479</idno>
+            <idno type="STC">Thomason 669.f.8[28]</idno>
+            <idno type="STC">ESTC R212105</idno>
+            <idno type="EEBO-CITATION">99870757</idno>
+            <idno type="PROQUEST">99870757</idno>
+            <idno type="VID">161079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89785)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161079)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f8[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable, the knights, citizens and burgesses, of the House of Commons assembled in Parliament the humble petition of many godly true-hearted Protestants, whose names are hereafter mentioned, ...</title>
+                  <author>Nutt, Thomas, 17th cent.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Thomas Nutt.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Praying that Brownists and Anabaptists may be given an opportunity of publicly justifying their beliefs.</note>
+                  <note>Annotation on Thomason copy: "Thom: nutt [illegible] carriar of norwich"; "London 20 septemb 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brownists --  England --  Early works to 1800.</term>
+               <term>Anabaptists --  England --  Early works to 1800.</term>
+               <term>Freedom of religion --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:161079:1" rendition="simple:additions"/>
+            <head>To the Right Honourable, the Knights, Citizens and Burgeſſes, of the Houſe of Commons aſſembled in Parliament, The humble Petition of many godly true-hearted Proteſtants, whoſe names are hereafter mentioned,</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat whereas your Petitioners acknowledging with all thankfulneſſe how it hath pleaſed God to move your hearts to endeavour the expel<g ref="char:EOLhyphen"/>ling and deſtroying of ſin, Satan, Antichriſt and errour, and inſtead of them to receive, imbrace, retaine and cheriſh knowledge, faith, love and obedience, that ſeeing every one ought to be fully perſwaded in his own minde, without which he can do nothing of faith, and ſo lies under ſin, do humbly intreat you, that ſeeing many are even almoſt unſetled, by reaſon that although indeed our faithfull Miniſters cry out daily againſt Browniſts and Anabaptiſts for their judgment, yet will not diſpute the caſe with them, pretending they are not worthy their diſpute: To which they anſwer it is becauſe they know they cannot make good their owne praictce from the Word of God, nor can prove their Church, their Miniſtery, their Baptiſm nor their Sabbath to be inſtituted by God, or owned by Chriſt and his Apoſtles. Of which number if there were onely a few ignorant profane perſons, it would not much move us, but that which almoſt aſtoniſheth us to think is, that ſome of them whom we looked on as the moſt eminent Proteſtants, moſt conſcionable frequenters of our Churches, ſtricteſt keepers of the Sabbaths, and moſt ſtrict in life and con<g ref="char:EOLhyphen"/>verſation, have very lately departed our Churches, and ſeparated from us, who in former times in the want of ſuch powerfull preaching as we by the good hand of providence by order of this honourable Aſſembly have injoyed now of late in ſeaſon, and out of ſeaſon, whereof they aforeſaid being diligent frequenters, have now very lately departed from us, as though the faithfull powerfull manifeſtations of the truths of God were a ſpe<g ref="char:EOLhyphen"/>ciall means to cauſe ſeparation from our Churches, who upon our earneſt deſiring them to returne to our Churches from their errours, have ſeem<g ref="char:EOLhyphen"/>ed to pitie us, and praiſe God for giving them light into thoſe truths, whereof they were very long ignorant, yet at laſt to ſee and underſtand his way, that they might practice the ſame, and walke therein, and tell us, that if the Lord love us, he will ſhew us the ſame truth, whereof they being convinced, dare not but practice. Now ſeeing we dare not but think that many of them are very conſcious people, although holding divers errors, as namely, they deny our Churches, our Miniſters, our Baptiſme and our Sabbath to be of Chriſt, or to have any footing in his Word, as alſo to be unlawfull to pay tithes to any Miniſter of the Goſpell: and indeed we cannot deny but that they alwayes ſhew themſelves very forward and deſirous to prove the truth of what they hold againſt any Chriſtian or Miniſters, the which when ſome of us have aſſayed to bring to paſſe, in de<g ref="char:EOLhyphen"/>ſire to bring their poore erring ſoules from their errours, the Miniſters have all refuſed, whereby if not prevented by the power which the good hand of providence hath committed to this honourable Aſſembly the poore ſoules of thoſe already gone aſtray, are not onely like to periſh, but many others are daily in danger to be led into the ſame errour by them, inaſmuch as they are weak, and cannot anſwer them, and the Miniſters either for want of love will not, or becauſe it is the truth they hold, they dare not oppoſe it.</p>
+            <p>In conſideration whereof your humble ſuppliants intreat this honourable Aſſembly, that foraſmuch as they do acknowledge their willingneſſe, and would rejoyce at an opportunity to manifeſt the things which they hold before you, or your godly Committee, either here or at Guild-Hall in London, and are willing, as they ſay; through the ſtrength of God, although they be no ſchollers, yet if any of the moſt grave Doctors of the Synod will oppoſe them before you or your Committee, they beleeve that God will inable them either to manifeſt what they hold to be the truth of God, or els to be willing thankfully to receive conviction, and thereupon to renounce any errour or errours they hold, and imbrace the truth, and practice the ſame with us. We therefore humbly intreat you to call them before you, and let them anſwer according to their deſire, that ſo errour may be abhorred, and truth imbraced inaſmuch as they have declared to us in print, that they abhorre all errours which they have light to diſcover, as namely univerſall redemption, free-will, falling away, and all things contrary to wholſome doctrine, whereof you may further examine them. And further, foraſmuch as they, although erring from us in judgment, yet are forward helpers of the cauſe of God, and have both in goods and per<g ref="char:EOLhyphen"/>ſons helped forward your deſignes, and live peaceably with all men, and none of them chargeable, but generally helpfull to the common-wealth, and ſeeing it is impoſſible for the rod to alter the judgment, but is onely peculiar to the Word by the help of the Spirit to do that, and ſeeing God is a jealous God, and will not looſe his prerogative, nor will have men preſume to judge conſcience, as he ſets out almoſt through the whole Chapter, <hi>Rom.</hi> 14. although one Judge quite contrary to another, as he inſtanceth both in meats and dayes, and faith, that <hi>we ſhall all appeare before the judge<g ref="char:EOLhyphen"/>ment-ſeat of Chriſt,</hi> and ſaith, <hi>He that doubteth is damned if he eat:</hi> for <hi>whatſoever is not of faith is ſin:</hi> and ſeeing that they that ſtand ſo much to have all brought to one judgement, would be loath to be inforced to change their own judgements, nay they know they cannot do it, although they would, for man cannot change his owne, and much leſſe anothers judgment, for that is onely peculiar to God to do by his Word and Spirit. If they ſay, it is becauſe theirs is the truth. Is not what every man judgeth truth, truth to him, as well as what they judge is to them? And is not what a man judgeth unclean, unclean to him? <hi>Rom.</hi> 14. 14. Then remember the counſell of Chriſt, namely, <hi>Whatſoever ye would that men ſhould do to you, do ye even ſo to them, for this is the Law and the Prophets.</hi> Then do as Gods Law commands, and his Prophets taught. Then we beſeech you be not par<g ref="char:EOLhyphen"/>takers of others mens ſins: for when any judge men for conſcience by the power they had from you, God will look on you as the doers and main<g ref="char:EOLhyphen"/>tainers of it. Conſider alſo how the prayers of all conſcious men will daily come up before God, and crie lowder againſt them that take away his prerogative and their liberty which he hath given them, which is as deare to conſcious men as their lives, then <hi>Abels</hi> bloud did againſt <hi>Cain.</hi> A<g ref="char:EOLhyphen"/>gaine, what praiſe to God, and prayers, with true love to them which give to God his prerogative, and to them their due, which he hath given the<g ref="char:EOLhyphen"/>m, namely liberty of conſcience. Then we beſeech you confider, that whereas <hi>David</hi> ſaith, <hi>Pſal.</hi> 19. <hi>The Law of God is perfect, converting the ſoule,</hi> ſeeing the Word, not the rod is able to convince the judgment, and alter the ſame, and ſeeing this honourable power hath put down ſome falſe pow<g ref="char:EOLhyphen"/>er, we beſeech you, let none riſe againſt God and his royall prerogative: then will wrath and ſtripes flee away, and peace and plenty, with joy and gladneſſe will come in the roome thereof, <hi>For when our wayes pleaſe the Lord, he maketh our enemies at peace with us.</hi> And ſeeing God hath put into your hearts for his glory, to cauſe that no wicked pamphlets or libellous books might be printed: we beſeech you to grant, that no conſcious book whereto the Authours will ſet their names and places of dwelling, may be refuſed to be printed, that ſo errours being found out and anſwered, the authours may be aſhamed and, and reduced to the truth, and the truths the more cleared, for the glory of God, the increaſe of knowledge, with<g ref="char:EOLhyphen"/>out which the mind is not good. And whereas they are accuſed not to allow of the execution of juſtice by the ſword of the Magiſtrate, they pro<g ref="char:EOLhyphen"/>feſſe, it is their hearts griefe, that the juſtice of their wholſome and good Lawes are no more ſtrictly executed. Your Petitioners humbly crave, that you would take the premiſes into your grave conſiderations, and grant them ſuch a gracious anſwer as God ſhall perſwade your hearts, for the filling the hearts of his people with praiſes, that they and their childrens children may praiſe God for this Aſſembly till the day of Chriſt, and they ſhall be thankfull, and pray for bleſſings upon you and your godly proceedings.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
